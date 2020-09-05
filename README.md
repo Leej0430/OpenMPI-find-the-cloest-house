@@ -1,0 +1,1 @@
+# OpenMPI-find-the-cloest-house
